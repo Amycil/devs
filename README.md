@@ -1,3 +1,3 @@
-# devs
+# DEMO
 
 git tutorial and crash course!!
